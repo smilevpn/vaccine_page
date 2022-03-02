@@ -10,17 +10,17 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<link rel="canonical" href="http://needcom.ru/" />
+	<link rel="canonical" href="https://needcom.ru/instructions/obratnii_mse" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-	<title>Статьи о компьютерной технике</title>
-	<meta property="og:site_name" content="Ремонт ноутбуков в Вологде" />
-		<meta property="og:title" content="Интересные статьи о компьютерной технике" />
+	<title>Внесение обратного талона МСЭ для повторного направления пациента в РМИС ВО "Промед"</title>
+	<meta property="og:site_name" content="Внесение обратного талона МСЭ для повторного направления пациента в РМИС ВО "Промед" />
+		<meta property="og:title" content="Внесение обратного талона МСЭ для повторного направления пациента в РМИС ВО "Промед" />
 		<meta property="og:locale" content="ru_RU" />
 		<meta property="og:description" content="Удаленное обучение пользования программами, настройка удаленного доступа к рабочей машине из дома, программы для автоматизации работы, статьи для работы с программами." />
-		<meta property="og:url" content="http://needcom.ru" />
+		<meta property="og:url" content="https://needcom.ru/instructions/obratnii_mse" />
 		<meta property="og:type" content="website" />
-		<meta property="og:image" content="../img/favicon.svg"/>
+		<meta property="og:image" content="https://needcom.ru/favicon.svg"/>
         <meta name="description" content="Удаленное обучение пользования программами, настройка удаленного доступа к рабочей машине из дома, программы для автоматизации работы.">
 <meta name="keywords" content="Удаленная помощь, настройка компьютера, Разбираемся в компьютере Вологда, статьи о компьютерной технике">
 	<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
@@ -28,17 +28,7 @@
 	<link rel="stylesheet" type="text/css" href="../main.css">
 	<link rel="stylesheet" type="text/css" href="../mobi-menu.css">
 	<script src="../js/jquery.js" type="text/javascript"></script>
-	<link rel="icon" href="../img/favicon.svg" type="image/svg+xml">
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-195714958-1">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-195714958-1');
-</script>
+	<link rel="icon" href="https://needcom.ru/favicon.svg" type="image/svg+xml">
 	<!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
@@ -52,6 +42,16 @@
    });
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/68998459" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-195714958-1">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-195714958-1');
+</script>
 <!-- /Yandex.Metrika counter -->
 
 <link rel="stylesheet" href="../lightzoom/style.css" type="text/css">
